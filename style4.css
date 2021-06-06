@@ -1,0 +1,9 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: image('C:\Users\sv121\Pictures\my.jpg');
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+
+}
